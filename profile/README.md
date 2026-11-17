@@ -30,4 +30,4 @@ Building is easier. Solving problems is harder. AI has commoditized software; th
 
 - **Dave Tosh** – AI Product & R&D Lead · [LinkedIn](https://www.linkedin.com/in/dtosh)
 
-People behind 47Geese have helped create and lead open source projects such as Elgg, Learning Locker and Entrada. Those projects belong to their own communities and organisations, not to 47Geese.
+People behind 47Geese have helped create, contribute to and lead open source projects such as Elgg, Learning Locker and Entrada. Those projects belong to their own communities and organisations, not to 47Geese.
