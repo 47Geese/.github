@@ -9,6 +9,7 @@
 | Project | What it is | Status |
 | --- | --- | --- |
 | **Quire** | Open-source curriculum mapping and visualization. Explore relationships across curricula, understand how things connect, and make complex information easier to navigate. | In development |
+| **Nylon** | Open-source chat for open-source healthcare projects: channels, threads and projects that link to their code. Shows DOIs, PubMed IDs, GitHub repos and FHIR pages as cards, and checks for patient details before anything is posted. | In development |
 
 ## Use it. Adapt it. Make it yours.
 
