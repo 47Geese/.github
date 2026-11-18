@@ -4,6 +4,8 @@
 
 47Geese starts with real problems, builds practical software to address them, and releases it as open source. Use it as it is, run it yourself, or make it your own with AI.
 
+🌐 **[47geese.com](https://47geese.com)**
+
 ## Projects
 
 | Project | What it is | Status |
