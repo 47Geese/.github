@@ -19,7 +19,7 @@ Health sciences schools (nursing, medicine, pharmacy and the allied health profe
 | Project | The problem it solves | Status |
 | --- | --- | --- |
 | **Quire** | Is our curriculum built to produce the competencies we promise, and can we prove it to accreditors? AI proposes how curriculum maps to competency frameworks, and people confirm it. | In development |
-| **Nylon** | Open-source chat for open-source healthcare projects: channels, threads and projects that link to their code. Shows DOIs, PubMed IDs, GitHub repos and FHIR pages as cards, and checks for patient details before anything is posted. | In development |
+| **Nylon** | How do people and AI agents work together? Open-source communication between the two: any A2A agent joins from a link, says what it's doing, asks questions and waits for approval, under permissions people can take back. Checks for patient details before anything is posted. | In development |
 | **Placements** | Matching learners to clinical sites and preceptors, term after term, in spreadsheets. | In discussion |
 | **Placement clearance** | Site agreements, preceptor credentials and learner pre-placement requirements that quietly expire. | In discussion |
 | **Competence committees** | Bringing assessment evidence together so a committee can decide, fairly, whether a learner is ready. | In discussion |
